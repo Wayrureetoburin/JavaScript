@@ -1,14 +1,14 @@
-const people = ["Aaron, "Mel", "John"];
-const onrn = 1 ;
-const str = "Hello World"
+const people = ["Aaron", "Mel", "John"];
+const one = 1 ;
+const str = "Hello World";
 const b = true;
 const employee = {
-    firstName: "Anirach"
+    firstName: "Anirach",
     lastName: "Mingkhwan",
 };
 
 function sayHello(person) {
-    console.log("Hello" + person.firstName)
+    console.log("Hello " + person.firstName)
 }
 
 console.log(typeof people);
