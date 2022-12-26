@@ -23,3 +23,4 @@ const myBooks = [
     new Object({ title : "Snow Crash", author: "Neal Stephenson"}),
     new Object({ title : "Predictably Irrational", author: "Dan Ariely"})
 ];
+*/
